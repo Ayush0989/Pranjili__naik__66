@@ -1,1 +1,6 @@
-# Pranjili__naik__66
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin# Pranjali__naik__66
